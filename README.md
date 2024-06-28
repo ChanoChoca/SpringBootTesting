@@ -2,6 +2,9 @@
 
 This is a project to testing with Mock and JUnit in Spring Boot
 
+## Important
+Remember view the [branches](https://github.com/ChanoChoca/SpringBootTesting/branches).
+
 ## Screenshots
 
 ![Test Screenshot](src/main/resources/images/1.png)
@@ -18,7 +21,7 @@ This is a project to testing with Mock and JUnit in Spring Boot
 
 ## Environment Variables
 
-Remember run the .sql en MySQL to test the code.
+Remember run the .sql in MySQL to test the code.
 
 
 ## Run Application
