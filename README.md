@@ -51,12 +51,11 @@ See more information on https://maven.apache.org/surefire/maven-surefire-plugin/
 
 By CMD: go to the folder and run `mvn clean test`
 
-After seeing the results, use `mvn site -DgenerateReports=false`
-This will generate several HTML files in the 'target' folder of the project, they are:
+After seeing the results, use `mvn site -DgenerateReports=false`. This will generate several HTML files in the 'target' folder of the project, they are:
 - target/site/surefire-report.html
   - This report provides extensive details on the test results.
     ![Test Screenshot](src/main/resources/images/test3.png)
-- destination/site/jacoco/index.html 
+- target/site/jacoco/index.html
   - Similar to the coverage report generated from the IDE, it provides extensive details on code coverage.
     ![Test Screenshot](src/main/resources/images/test4.png)
 
